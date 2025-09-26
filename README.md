@@ -1,2 +1,1 @@
-# Demian-Correa-4-4-Proyecto-Informatico-I
-Proyecto Informático I
+# Hoy trabajé en el planteo de problemas y Análisis de Necesidades + Juan investigó con video en youtube sobre un sistema de riego con LCD, Sonsor de Humedad, Etc.
