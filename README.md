@@ -1,2 +1,1 @@
-# Demian-Correa-4-4-Proyecto-Informatico-I
-Proyecto Informático I
+# Hoy Trabajamos en solucionar el problema del LCD en tinkercad y empezamos la carpeta de campo.
