@@ -1,2 +1,1 @@
-# Demian-Correa-4-4-Proyecto-Informatico-I
-Proyecto Informático I
+#Hoy trabajé en el código para el sensor de temperatura y en arreglar el problema con el display
